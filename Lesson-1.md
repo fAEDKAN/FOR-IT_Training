@@ -1,4 +1,4 @@
-# Clase de Pablo: Capacitación FOR IT - Clase 1 (minuto 18:27)
+# Clase de Pablo: Capacitación FOR IT - Clase 1 (minuto 46:38)
 
 ## Razones por las que introducimos bugs:
 
