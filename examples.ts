@@ -11,9 +11,9 @@ const tarea: Task = {
 };
 
 const nuevaTarea: Task = {
-  id: "15",
-  title: "Estudiar TDD",
-  status: "en progreso",
+  id: 15,
+  name: "Estudiar TDD",
+  status: "in-progress",
 };
 
 const newTask: Task = {

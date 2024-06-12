@@ -1,6 +1,6 @@
-# Clase de Pablo: Capacitación FOR IT - Clase 1 (minuto 46:38)
+# Clase de Pablo: Capacitación FOR IT - Clase 1 (minuto 48:20)
 
-## Razones por las que introducimos bugs:
+## Razones por las que introducimos bugs
 
 - **Sintaxis incorrecta** (errores de tipeo, etc).
 - **Tipos de datos incorrectos** (número en vez de string, etc).
@@ -10,7 +10,7 @@
 
 ---
 
-## TypeScript:
+## TypeScript
 
 Superset de JavaScript que le otorga a **JS** la capacidad de definir **TIPOS**.
 
@@ -53,3 +53,7 @@ const newTask: Task = {
   status: "done",
 };
 ```
+
+---
+
+Está bueno aprender los fundamentos de la **OOP (Object Oriented Programming)**, pero se considera que "no sirve" para la creación de aplicaciones sino más bien para desarrollar bibliotecas o frameworks, lo recomendable es la **Functional Programming**.
